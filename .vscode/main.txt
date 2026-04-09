@@ -1,0 +1,2 @@
+PS D:\Coding\C\beginning C> gcc 1.c
+PS D:\Coding\C\beginning C> ./a.exe
